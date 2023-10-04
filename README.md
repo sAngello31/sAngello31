@@ -1,4 +1,3 @@
-theme: minima
 <h1 align="center">Hola, soy Angello Bravo</h1>
 <h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación</h3>
 
