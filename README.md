@@ -21,11 +21,13 @@ proyectos y mis intereses.
 * Nombre: Angello de Jesús Bravo Mera
 * Ocupación: Estudiante - Ingeniería en Computación
 * Lugar de residencia: Guayaquil - Ecuador
-* Sitio web: [Tu sitio web]
+* [Sitio Web personal](https://sangello31.github.io/Curriculum/)
 ## Proyectos
+* [Curriculum Personal](https://github.com/sAngello31/Curriculum)
 * [App de Gestión de Tiempo - Tivity](https://github.com/Taws-Espol/ProductivityApp_mobile)
 * [Detector de Manos conectado a Arduino](https://github.com/sAngello31/handsDetectorWithArduino)
 * [Detector de Colores con CV2](https://github.com/sAngello31/ColorDetector)
+* [Landing Page - Confecciones Bravo](https://github.com/sAngello31/landing)
 ## Intereses
 * Inteligencia Artificial
 * Arduino
