@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angello.rar/)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angello-de-jesus-bravo-mera-00300416a/)
 ## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,python,typescript,java,go,angular,nestjs,spring,git,opencv,nodejs,gcp,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,typescript,java,go,angular,nestjs,spring,git,opencv,nodejs,gcp,mysql,mongodb,linux)](https://skillicons.dev)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sAngello31&layout=compact&theme=radical)
 
