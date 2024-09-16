@@ -1,34 +1,19 @@
-<h1 align="center">Hola, soy Angello Bravo</h1>
-<h3 align="center">Estudiante de Ingeniería en Ciencias de la Computación</h3>
+<h1 align="center">Hi 🖖 I am Angello Bravo!</h1>
+<h3 align="center">I am a Software Developer and Computer Science student from Ecuador, recently relocated to the United States.</h3>
 
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
-## Contenido
-* [Tecnologías y Herramientas](#información-personal)
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Tecnologías y Herramientas
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" rel="noreferrer"><img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank" rel="noreferrer"><img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+## About Me
+- 👨‍💻 I’m currently working on an API for a subscription management and automated notifications system.
+- 💻 Experienced in developing web applications.
+- 📚 Currently learning Google Cloud and expanding my expertise in Backend Development and Computer Vision.
+- 🖥️ Enthusiastic about operating systems and computer vision, exploring how these fields intersect with modern technology.
+- 💬 Feel free to reach out if you want to discuss topics like Data Structures and Algorithms, Object-Oriented Programming, or Operating Systems!
+- 📫 How to reach me bravoangello31@gmail.com
 
-## Información personal
-* Nombre: Angello de Jesús Bravo Mera
-* Ocupación: Estudiante - Ingeniería en Computación
-* Lugar de residencia: Guayaquil - Ecuador
-* [Sitio Web personal](https://sangello31.github.io/Curriculum/)
-## Proyectos
-* [Curriculum Personal](https://github.com/sAngello31/Curriculum)
-* [App de Gestión de Tiempo - Tivity](https://github.com/Taws-Espol/ProductivityApp_mobile)
-* [Detector de Manos conectado a Arduino](https://github.com/sAngello31/handsDetectorWithArduino)
-* [Detector de Colores con CV2](https://github.com/sAngello31/ColorDetector)
-* [Landing Page - Confecciones Bravo](https://github.com/sAngello31/landing)
-## Intereses
-* Inteligencia Artificial
-* Arduino
-* Visión Artificial
+## Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/angello.rar/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/angello-de-jesus-bravo-mera-00300416a/)
+## Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,python,typescript,java,go,angular,nestjs,spring,git,opencv,nodejs,gcp,mysql,mongodb)](https://skillicons.dev)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sAngello31&layout=compact&theme=radical)
+
