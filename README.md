@@ -4,7 +4,7 @@
 ## About Me
 - 👨‍💻 I’m currently working on an API for a subscription management and automated notifications system.
 - 💻 Experienced in developing web applications.
-- 📚 Currently learning Google Cloud and expanding my expertise in Backend Development and Computer Vision.
+- 📚 Currently learning AWS and expanding my expertise in Backend Development and Computer Vision.
 - 🖥️ Enthusiastic about operating systems and computer vision, exploring how these fields intersect with modern technology.
 - 💬 Feel free to reach out if you want to discuss topics like Data Structures and Algorithms, Object-Oriented Programming, or Operating Systems!
 - 📫 How to reach me bravoangello31@gmail.com
