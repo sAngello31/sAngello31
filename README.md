@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🖖 I am Angello Bravo!</h1>
-<h3 align="center">I am a Software Developer and Computer Science student from Ecuador, recently relocated to the United States.</h3>
+<h3 align="center">I am a Computer Science student from Ecuador.</h3>
 
 ## About Me
-- 👨‍💻 I’m currently working on an API for a subscription management and automated notifications system.
+- 👨‍💻 I’m currently working on a MQTT protocol.
 - 💻 Experienced in developing web applications.
 - 📚 Currently learning AWS and expanding my expertise in Backend Development and Computer Vision.
 - 🖥️ Enthusiastic about operating systems and computer vision, exploring how these fields intersect with modern technology.
